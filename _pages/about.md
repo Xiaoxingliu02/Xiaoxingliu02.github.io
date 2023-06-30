@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+../images/Obama_.mp4
 https://github.com/Xiaoxingliu02/Xiaoxingliu02.github.io/assets/132677320/e8d2c59c-4cfa-491a-beff-b778d320a32c
 
 
